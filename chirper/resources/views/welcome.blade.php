@@ -95,7 +95,7 @@
 <div class="container">
     <!-- Left Section -->
     <div class="left-section">
-        <img src="https://abs.twimg.com/responsive-web/client-web/icon-ios.8ea219d8.png" alt="Twitter Icon">
+        <img src="{{ asset('images/chirper-logo.png') }}" alt="Chirper Logo" class="logo">
         <h1>Acompanhe o que está acontecendo no mundo agora.</h1>
     </div>
 
